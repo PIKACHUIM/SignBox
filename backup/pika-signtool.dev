@@ -1,0 +1,62 @@
+[Project]
+FileName=pika-signtool.dev
+Name=pika-signtool
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=pika-signtool_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=pika-signtool.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=pika-signtool.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=3
+CompilerSettings=0000000100110000001000000
+UnitCount=1
+
+[VersionInfo]
+Major=1
+Minor=1
+Release=1
+Build=26
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.1.1.26
+FileDescription=Pikachu Code Signature Tool
+InternalName=Pikachu Code Signature Tool
+LegalCopyright=Copyright 2019 Pikachuim
+LegalTrademarks=Pikachu Code Signature Tool
+OriginalFilename=Pikasign
+ProductName=Pikachu Code Signature Tool
+ProductVersion=1.1.1.26
+AutoIncBuildNr=1
+SyncProduct=1
+
+[Unit1]
+FileName=pika-signtool.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
